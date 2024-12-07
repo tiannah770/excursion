@@ -1,0 +1,18 @@
+* {
+    font-family: Verdana, sans-serif;
+    font-size: 16px;
+    color: #fff;
+    text-align: center;
+}
+
+body {
+    background-color: #000;
+}
+
+a {
+    color: aquamarine;
+}
+
+h1 {
+    font-size: 3.125rem;
+}
